@@ -5,6 +5,8 @@
 		configuration in <iphone> and <android> sections
 	-->
 	<android xmlns:android="http://schemas.android.com/apk/res/android">
-		<uses-permission android:name="android.permission.VIBRATE" />
+		<manifest>
+			<uses-permission android:name="android.permission.VIBRATE" />
+		</manifest>
 	</android>
 </ti:module>
