@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "ti.android.haptics.module-release-46:/layout-v21/notification_template_icon_group.xml",
+        "source": "ti.android.haptics.module-core-1.13.1-37:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "ti.android.haptics.module-release-46:/layout-v21/notification_action.xml",
+        "source": "ti.android.haptics.module-core-1.13.1-37:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "ti.android.haptics.module-release-46:/layout-v21/notification_template_custom_big.xml",
+        "source": "ti.android.haptics.module-core-1.13.1-37:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "ti.android.haptics.module-release-46:/layout-v21/notification_action_tombstone.xml",
+        "source": "ti.android.haptics.module-core-1.13.1-37:/layout-v21/notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "ti.android.haptics.module-release-46:/values-v35/values-v35.xml",
+            "map": [
+                {
+                    "source": "/Users/douglas/.gradle/caches/8.14.3/transforms/f8acafd54ee7fc40ac50e9dc0632ac90/transformed/titanium-13.1.1/res/values-v35/values-v35.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,330",
+                        "endLines": "6,11",
+                        "endColumns": "9,9",
+                        "endOffsets": "325,621"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "ti.android.haptics.module-mergeReleaseResources-44:/values-v35/values-v35.xml",
+            "map": [
+                {
+                    "source": "/Users/douglas/.gradle/caches/8.14.3/transforms/f8acafd54ee7fc40ac50e9dc0632ac90/transformed/titanium-13.1.1/res/values-v35/values-v35.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,330",
+                        "endLines": "6,11",
+                        "endColumns": "9,9",
+                        "endOffsets": "325,621"
+                    }
+                }
+            ]
+        }
+    ]
+}

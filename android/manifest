@@ -1,0 +1,27 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 4
+architectures: arm64-v8a armeabi-v7a x86 x86_64
+description: Ti.Android.Haptics
+author: Douglas Alves
+license: MIT
+copyright: Copyright (c) 2026 by Upflix Inc.
+
+# these should not be edited
+name: Ti.Android.Haptics
+moduleid: ti.android.haptics
+guid: 02e82988-fa1e-47e8-9898-546b1d10d854
+platform: android
+#
+# Classpaths and plugins are used for android packages that requires them
+# to use them you have to add your classpaths and plugins comma separated
+# Ex:
+# classpaths: classpath1,classpath2
+# plugins: plugin1,plugin2
+#
+classpaths:
+plugins:
+minsdk: 13.1.1.GA

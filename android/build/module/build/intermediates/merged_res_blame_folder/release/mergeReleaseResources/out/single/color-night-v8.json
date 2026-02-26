@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "ti.android.haptics.module-release-46:/color-night-v8/material_timepicker_button_stroke.xml",
+        "source": "ti.android.haptics.module-material-1.12.0-18:/color-night-v8/material_timepicker_button_stroke.xml"
+    },
+    {
+        "merged": "ti.android.haptics.module-release-46:/color-night-v8/material_timepicker_modebutton_tint.xml",
+        "source": "ti.android.haptics.module-material-1.12.0-18:/color-night-v8/material_timepicker_modebutton_tint.xml"
+    },
+    {
+        "merged": "ti.android.haptics.module-release-46:/color-night-v8/material_timepicker_clockface.xml",
+        "source": "ti.android.haptics.module-material-1.12.0-18:/color-night-v8/material_timepicker_clockface.xml"
+    }
+]

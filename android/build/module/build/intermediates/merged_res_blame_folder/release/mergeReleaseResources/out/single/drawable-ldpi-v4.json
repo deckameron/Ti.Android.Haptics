@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "ti.android.haptics.module-release-46:/drawable-ldpi-v4/ic_call_answer_video_low.png",
+        "source": "ti.android.haptics.module-core-1.13.1-37:/drawable-ldpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "ti.android.haptics.module-release-46:/drawable-ldpi-v4/ic_call_answer_video.png",
+        "source": "ti.android.haptics.module-core-1.13.1-37:/drawable-ldpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "ti.android.haptics.module-release-46:/drawable-ldpi-v4/ic_call_answer.png",
+        "source": "ti.android.haptics.module-core-1.13.1-37:/drawable-ldpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "ti.android.haptics.module-release-46:/drawable-ldpi-v4/ic_call_decline.png",
+        "source": "ti.android.haptics.module-core-1.13.1-37:/drawable-ldpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "ti.android.haptics.module-release-46:/drawable-ldpi-v4/ic_call_answer_low.png",
+        "source": "ti.android.haptics.module-core-1.13.1-37:/drawable-ldpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "ti.android.haptics.module-release-46:/drawable-ldpi-v4/ic_call_decline_low.png",
+        "source": "ti.android.haptics.module-core-1.13.1-37:/drawable-ldpi-v4/ic_call_decline_low.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "ti.android.haptics.module-release-46:/xml/titanium_ui_vertical_nested_scrollview.xml",
+        "source": "ti.android.haptics.module-titanium-13.1.1-41:/xml/titanium_ui_vertical_nested_scrollview.xml"
+    },
+    {
+        "merged": "ti.android.haptics.module-release-46:/xml/titanium_ui_horizontal_nested_scrollview.xml",
+        "source": "ti.android.haptics.module-titanium-13.1.1-41:/xml/titanium_ui_horizontal_nested_scrollview.xml"
+    }
+]

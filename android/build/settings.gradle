@@ -1,0 +1,2 @@
+rootProject.name = 'ti.android.haptics'
+include ':module'

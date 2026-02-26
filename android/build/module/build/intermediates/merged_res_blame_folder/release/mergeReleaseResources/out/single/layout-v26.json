@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "ti.android.haptics.module-release-46:/layout-v26/mtrl_calendar_month.xml",
+        "source": "ti.android.haptics.module-material-1.12.0-18:/layout-v26/mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "ti.android.haptics.module-release-46:/layout-v26/abc_screen_toolbar.xml",
+        "source": "ti.android.haptics.module-appcompat-1.7.0-33:/layout-v26/abc_screen_toolbar.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "ti.android.haptics.module-release-46:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "ti.android.haptics.module-material-1.12.0-18:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "ti.android.haptics.module-release-46:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "ti.android.haptics.module-material-1.12.0-18:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    }
+]
