@@ -2,7 +2,7 @@
 
 > Advanced Android Haptic Feedback module for [Titanium SDK](https://titaniumsdk.com/)
 
-The Titanium SDK already exposes `Ti.UI.iOS.FeedbackGenerator` for rich haptic feedback on iPhone. This module brings the same level of control to Android — exposing `VibrationEffect` predefined effects, custom waveforms, precise amplitude control, and `HapticFeedbackConstants` for view-level feedback.
+The Titanium SDK already exposes `Ti.UI.iOS.FeedbackGenerator` for rich haptic feedback on iPhone. This module brings the same level of control to Android, exposing `VibrationEffect` predefined effects, custom waveforms, precise amplitude control, and `HapticFeedbackConstants` for view-level feedback.
 
 [![Platform](https://img.shields.io/badge/platform-Android-green.svg)](https://www.android.com/)
 [![Min API](https://img.shields.io/badge/minAPI-29%20(Android%2010)-blue.svg)](https://developer.android.com/tools/releases/platforms#10)
